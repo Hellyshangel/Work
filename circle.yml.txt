@@ -1,2 +1,2 @@
 general:
-  build_dir: podam-master
+  build_dir: src
