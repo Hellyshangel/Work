@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 general:
-  build_dir: src
+  build_dir: src\test
 =======
 language: java
 jdk:
